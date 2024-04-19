@@ -9,6 +9,7 @@ These are the steps used :
 - One hot encoding​
 - Modeling (Linear regression)​
 - K fold cross validation
+- Grid search method to compare to lasso regression and decision tree algorithms
 
 Front End development:
 - Html
